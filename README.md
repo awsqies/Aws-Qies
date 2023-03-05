@@ -1,1 +1,2 @@
 # Aws-Qies
+open(page)
